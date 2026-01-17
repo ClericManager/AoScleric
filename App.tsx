@@ -578,7 +578,7 @@ const App: React.FC = () => {
                 <tr>
                   <th className="p-4 w-12 text-center">STT</th>
                   <th className="p-4 w-24 text-center">
-                    <div>Profile</span>
+                    <div>Profile</div>
                     <div className="ml-1 text-[7px] italic text-gray-400">
                       Click ảnh
                     </div>
